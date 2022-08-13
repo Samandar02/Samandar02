@@ -1,7 +1,7 @@
 # About myself
 ## Hi Dear 👋
 My name is Samandar  
-I'm 19 years old self-taught full stack web developer from Uzbekistan and I have been interesting this direction almost since I was a child. I have curious about problem solving, playing online games, learn new experience and I'm currently learning one of most famous framework ASP.net Core and Angular Frameworks.  
+I'm 19 years old self-taught full stack web developer from Uzbekistan and I have been interesting this direction almost since I was a child. I have curious about problem solving, playing online games, learn new experience and I'm currently learning one of most famous framework ASP.net Core and Angular.  
 I learned a lot from the open-source community and i love knowledge sharing
 #### My Languages and tools
 
