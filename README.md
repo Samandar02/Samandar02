@@ -10,8 +10,7 @@
 * 📫 How to reach me: uchqunnovsamandar@gmail.com
 
 
-I'm 19 years old self-taught full stack web developer from Uzbekistan and I have been interesting this direction almost since I was a child. I have curious about problem solving, playing online games, learn new experience and I'm currently learning angular/ngrx managing tool.  
-I learned a lot from the open-source community and i love knowledge sharing
+I'm 19 years old self-taught full stack web developer from Uzbekistan and I have been interesting this direction almost since I was a child. I have curious about problem solving, playing online games, learn new experience and I learned a lot from the open-source community and i love knowledge sharing :)
 
 
 ### Actions
