@@ -5,7 +5,7 @@ I'm 19 years old self-taught full stack web developer from Uzbekistan and I have
 I learned a lot from the open-source community and i love knowledge sharing
 #### My Languages and tools
 
-![asnetcore](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg)
+![asnetcore](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg =100x100)
 ![angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg)
 ![asnetcore](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
 ![asnetcore](./EFCore.png)
