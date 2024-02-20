@@ -15,7 +15,10 @@ I'm 19 years old self-taught full stack web developer from Uzbekistan and I have
 
 ### Actions
 
-<div style="display:flex;flex-wrap:wrap"><img width="50%" style="min-width:543px" src="https://github-readme-stats.vercel.app/api?username=samandar02&show_icons=true" /><img width="50%" style="min-width:543px" src="https://github-readme-streak-stats.herokuapp.com/?user=samandar02" /></div>
+<div style="display:flex;flex-wrap:wrap">
+          <img width="380em" style="min-width:543px" src="https://github-readme-stats.vercel.app/api?username=samandar02&show_icons=true" />
+          <img width="290em" style="min-width:43px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samandar02&layout=compact" />
+</div>
 
 
 
