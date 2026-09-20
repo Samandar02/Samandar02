@@ -27,9 +27,6 @@ jobs:
           node-version: 22
           cache: "npm"
 
-      - name: Setup GitHub Pages configuration
-        uses: actions/configure-pages@v5
-
       - name: Install dependencies
         run: npm ci
 
